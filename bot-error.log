@@ -1,0 +1,1 @@
+(node:12002) DeprecationWarning: TextChannel#sendEmbed: use TextChannel#send instead
